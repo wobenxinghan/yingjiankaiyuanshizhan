@@ -11,7 +11,7 @@
   
   arduino
   
-  ![](arduino.png)
+  ![](img/arduino.png)
   fritzing
   
   processing
